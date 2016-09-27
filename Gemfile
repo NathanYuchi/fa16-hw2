@@ -42,4 +42,6 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-
+gem 'tzinfo-data'
+gem 'tzinfo'
+gem 'coffee-script-source', '1.9.0'
